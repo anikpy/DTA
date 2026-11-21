@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Corridor 3D",
+  "description": "Interactive 3D architectural road scene of Dhaka from Tejgaon Niloy Hero Showroom through Mohakhali, Banani, Kuril, Uttara, and the 300 Feet Purbachal Expressway to Neela Market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
